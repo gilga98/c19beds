@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_hospital"
+        android:icon="@drawable/ic_bed"
+        android:title="@string/title_hospital" />
+
+    <item
+        android:id="@+id/navigation_ambulance"
+        android:icon="@drawable/ic_ambulance"
+        android:title="@string/title_ambulance" />
+
+    <item
+        android:id="@+id/navigation_other"
+        android:icon="@drawable/ic_medical_kit"
+        android:title="@string/title_other" />
+</menu>
